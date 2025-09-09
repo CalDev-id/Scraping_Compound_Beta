@@ -1,7 +1,7 @@
 from groq import Groq
 import json
 
-client = Groq(api_key="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")
+client = Groq(api_key="")
 
 prompt_berita = "presiden halimah di tolak warga etnis china sultan brunei ancam beli singapura."
 
